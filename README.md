@@ -1,6 +1,8 @@
 # sparkcourse
 Timing Big Data with Apache Spark and Python
 
+![](images/apache_spark.jpeg)
+
 
 The following repository is covering all levels topics of Big Data with Apache Spark using python in Jupyter Notebook.
 
